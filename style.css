@@ -48,15 +48,9 @@
 .contact-method{
     margin-bottom: 10px;
 }
-.contact-area{
-    display: flex;
-    justify-content: space-around;
-}
 
 textarea{
     resize: none;
-    width: 100%;
-    height: auto;
 }
 @media only screen and (max-width: 768px) {
     .contact-area{
