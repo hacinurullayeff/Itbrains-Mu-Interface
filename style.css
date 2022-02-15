@@ -36,9 +36,7 @@
     background-color: #212529;
     color: #fff;
 }
-.card-hover{
-    transition: .9s;
-}
+
 .card-hover:hover{
    width: 430px;
    height: auto;
