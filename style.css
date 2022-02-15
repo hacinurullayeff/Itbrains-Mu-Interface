@@ -61,3 +61,7 @@ textarea{
         flex-direction: column;
     }
   }
+
+#about, #courses, #team, #contact{
+    padding: 100px !important;
+}
